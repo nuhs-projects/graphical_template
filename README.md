@@ -6,4 +6,4 @@ currently, only various types of bar charts are added
 - Stacked bar chart
 - Grouped bar chart
 
-📓 [View the example notebook](test_run.ipynb)
+📓 [View the example demo in test_run.ipynb](test_run.ipynb)
